@@ -1,0 +1,75 @@
+body
+{
+    background-image: url("../resources/background.jpg");
+}
+h1.title{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color:antiquewhite;
+}
+div.title{
+
+  width: 600px;
+  padding: 50px;
+  margin: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+div.file{
+    width: 100%;
+    box-sizing: border-box;
+    background-color: rgb(65, 127, 148);
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+    padding: 12px 20px 12px 40px;
+  }
+h2.subtitle{
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+img.image{
+    width: 50px;
+    height: 60px;
+    vertical-align: middle;
+}
+div.image_upload{
+    background-color:rgb(38, 75, 87);
+    width: 600px;
+    padding: 50px;
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;  
+    display: block;
+    color: antiquewhite;
+}
+.submit {
+    background-color: #008CBA;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+}
+img.output{
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2.result{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color:red;
+}
+h2.uploaded{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: azure;
+}
