@@ -3,4 +3,4 @@ keras==2.8.0
 numpy==1.22.3
 opencv-python==4.5.5.64
 unicorn
-tensorflow-cpu==2.6.0
+tensorflow==1.14
